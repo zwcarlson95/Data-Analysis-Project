@@ -1,1 +1,1 @@
-# Data-Analysis-Project
+In this project, various data exploration and analysis techniques were used on the Social Network Ads dataset. The data was first processed and then split into separate training and testing sets. A descriptive analysis was then performed on several features in the dataframe to gain a better understanding of the distribution of the data. Several learning models were then applied to the data, such as a decision tree classifier, a K-nearest neighbor classifier, and a Naive Bayes classifier. 
